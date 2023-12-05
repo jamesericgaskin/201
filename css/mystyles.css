@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+/* h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+} */
+.darkbg{
+    background-color: rgba(62, 13, 13, 0.915) !important;
+}
+.text-primary{
+    color: navy !important;
+}
